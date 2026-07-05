@@ -195,10 +195,5 @@ My goal is to expand TradeGuardian-AI into a complete AI-powered supply chain an
 
 **Mayur Gaikwad**
 
-Business Analyst | Data Analyst | AI & Machine Learning Enthusiast
-
-# 👨‍💻 Author
-
-**Mayur Gaikwad**
 
 
