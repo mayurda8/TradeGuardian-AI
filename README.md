@@ -221,18 +221,6 @@ The platform provides insights for:
 
 ---
 
-# 📷 Screenshots
-
-Add screenshots here after uploading them.
-
-- Executive Dashboard
-- Feature Importance
-- Customer Segmentation
-- Customer Health Dashboard
-- Business KPIs
-
----
-
 # 📁 Repository Structure
 
 ```text
