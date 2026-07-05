@@ -142,34 +142,6 @@ Some insights generated from this project include:
 
 ---
 
-# Repository Structure
-
-```
-TradeGuardian-AI/
-
-│── notebooks/
-│     └── TradeGuardian_AI.ipynb
-│
-│── data/
-│     ├── raw/
-│     └── processed/
-│
-│── models/
-│     └── best_supply_chain_model.pkl
-│
-│── reports/
-│
-│── figures/
-│
-│── README.md
-│
-│── requirements.txt
-│
-└── LICENSE
-```
-
----
-
 # Current Limitations
 
 This project represents **Version 1.0**.
