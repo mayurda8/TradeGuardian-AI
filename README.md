@@ -220,6 +220,4 @@ I plan to continue improving TradeGuardian-AI by adding interactive dashboards, 
 
 **Mayur Gaikwad**
 
-Business Analyst | Data Analyst | AI & Machine Learning Enthusiast
-
 Thank you for taking the time to explore this project. Feedback and suggestions are always welcome.
