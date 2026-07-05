@@ -1,7 +1,4 @@
 # TradeGuardian-AI
-AI-powered Supply Chain Risk Analytics Platform using Machine Learning, Customer Segmentation, Business Intelligence, and Predictive Analytics.
-
-# TradeGuardian-AI
 
 TradeGuardian-AI is an end-to-end machine learning project that analyzes supply chain operations and predicts late delivery risks. Along with predictive modeling, the project includes customer segmentation, business KPIs, and operational insights to support better decision-making.
 
